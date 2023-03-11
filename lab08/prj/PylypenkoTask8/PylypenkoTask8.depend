@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1678220617 source:c:\users\vikto\pylypenko-viktoriia-kn22\lab08\prj\pylypenkotask8\main.cpp
+	<iostream>
+	"ModulesPylypenko.h"
+
+1678482335 c:\users\vikto\pylypenko-viktoriia-kn22\lab08\prj\modulespylypenko\modulespylypenko.h
+
+1678498385 source:c:\users\vikto\pylypenko-viktoriia-kn22\lab08\prj\pylypenkotask8\pylypenkotask8.cpp
+	<iostream>
+	<clocale>
+	<windows.h>
+	<iomanip>
+	<ModulesPylypenko.h>
+
+1678482335 c:\users\vikto\pylypenko-viktoriia-kn22\lab08\prj\pylypenkotask8\modulespylypenko.h
+
+1678418880 c:\users\vikto\pylypenko-viktoriia-kn22\lab08\prj\pylypenkotask8\pylypenkotask8.h
+
