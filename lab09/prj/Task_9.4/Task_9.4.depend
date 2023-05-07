@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683478747 source:d:\codeblocks\lab9\task_9.4\main.cpp
+	<iostream>
+	<ModulesPylypenko.h>
+	<windows.h>
+	<clocale>
+	<iomanip>
+	<cmath>
+
+1683478975 d:\codeblocks\lab9\modulespylypenko\modulespylypenko.h
+
