@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684911913 source:d:\pylypenko-viktoriia-kn22\lab10\prj\modulespylypenko\main.cpp
+	<cmath>
+	<iostream>
+	<fstream>
+	<cmath>
+	<bitset>
+	<sstream>
+	<cstring>
+	<ctime>
+

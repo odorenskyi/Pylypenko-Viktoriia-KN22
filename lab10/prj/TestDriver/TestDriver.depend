@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684912937 source:d:\pylypenko-viktoriia-kn22\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	"windows.h"
+	<iomanip>
+	"ModulesPylypenko.h"
+
+1684911621 d:\pylypenko-viktoriia-kn22\lab10\prj\modulespylypenko\modulespylypenko.h
+
