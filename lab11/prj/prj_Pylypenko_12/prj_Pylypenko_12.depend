@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1685997815 source:d:\pylypenko-viktoriia-kn22\lab11\prj\prj_pylypenko_12\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"../ModulesPylypenko.h"
+	"../ModulesKucher.h"
+	"../ModulesSkok.h"
+	"../struct_type_project_12.h"
+
+1685996389 d:\pylypenko-viktoriia-kn22\lab11\prj\modulespylypenko.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"struct_type_project_12.h"
+
+1685996389 d:\pylypenko-viktoriia-kn22\lab11\prj\struct_type_project_12.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+
+1685996389 d:\pylypenko-viktoriia-kn22\lab11\prj\moduleskucher.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<Windows.h>
+	"struct_type_project_12.h"
+
+1685995787 d:\pylypenko-viktoriia-kn22\lab11\prj\modulesskok.h
+	<iostream>
+	<fstream>
+	"struct_type_project_12.h"
+
